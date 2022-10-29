@@ -2,7 +2,7 @@ README for SGRDL-FWI Matlab Package
 
 This is the Matlab Package for
 Hongsun Fu,Hongyu Qi,Shujun Dong,and Ran Hua. "Sparse Graph-regularized Dictionary Learning for Full Waveform Inversion".  
-Computers & Geosciences.(submitted)
+Computers & Geosciences.
 
 
 
